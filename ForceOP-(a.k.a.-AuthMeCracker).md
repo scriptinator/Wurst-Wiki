@@ -1,3 +1,5 @@
+>Looking for the [short version](https://www.wurst-client.tk/forceop-tutorial)?
+
 # Content
 1. [What you need](#what-you-need)
 2. [Step 1: Adding the admins to your alt list](#step-1-adding-the-admins-to-your-alt-list)
