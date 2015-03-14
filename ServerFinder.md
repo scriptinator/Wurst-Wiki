@@ -13,3 +13,12 @@
 
 5. **That's it!** I found 96 servers this time. How many can you find?
 [[https://cloud.githubusercontent.com/assets/10100202/6096345/1ef3f8d2-af8c-11e4-9a23-14e2805162bb.jpg]]
+
+
+
+
+
+
+
+
+@Nitrogen-Dioxide hey please can you give me a link for resilience client? wizardhax link is deleted!
