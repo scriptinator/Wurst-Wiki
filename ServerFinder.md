@@ -21,4 +21,3 @@
 
 
 
-@Nitrogen-Dioxide hey please can you give me a link for resilience client? wizardhax link is deleted!
