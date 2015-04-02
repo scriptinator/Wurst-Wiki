@@ -1,4 +1,3 @@
-# How to use ServerFinder
 1. **Get an IP** to start with. Just [Google `minecraft server ip`](https://www.google.com/?gfe_rd=cr&ei=FCnXVKG8CIbCUK77gPAB#q=minecraft+server+ip&tbs=qdr:d) and you're good to go.
 [[https://cloud.githubusercontent.com/assets/10100202/6096406/3b08f434-af8f-11e4-992f-6b8451316599.jpg]]
 
