@@ -1,5 +1,4 @@
 ![](https://ga-beacon.appspot.com/UA-52838431-1/GitHub/wiki/Debugging-Wurst-in-Eclipse?pixel)
-
 >**Notice:** This tutorial assumes that you are familiar with Eclipse and MCP.
 
 1. **Install [MCP](http://www.modcoderpack.com/website/releases)** like you would normally.
