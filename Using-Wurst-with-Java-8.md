@@ -1,5 +1,4 @@
-![](https://ga-beacon.appspot.com/UA-52838431-1/GitHub/wiki/Using-Wurst-with-Java-8?pixel)
-# Method 1: Install Java 8 properly
+# Method 1: Install Java 8 properly![](https://ga-beacon.appspot.com/UA-52838431-1/GitHub/wiki/Using-Wurst-with-Java-8?pixel)
 1. [**Download Java 8**](http://java.com/download) from Java.com.
 
 2. **Install it.** If you need help with that, read the [installation guide](http://java.com/en/download/help/index_installing.xml) on Java.com.
