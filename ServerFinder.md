@@ -1,5 +1,4 @@
-![](https://ga-beacon.appspot.com/UA-52838431-1/GitHub/wiki/ServerFinder?pixel)
-1. **Get an IP** to start with. Just [Google `minecraft server ip`](https://www.google.com/?gfe_rd=cr&ei=FCnXVKG8CIbCUK77gPAB#q=minecraft+server+ip&tbs=qdr:d) and you're good to go.
+1. **Get an IP** to start with. Just [Google `minecraft server ip`](https://www.google.com/?gfe_rd=cr&ei=FCnXVKG8CIbCUK77gPAB#q=minecraft+server+ip&tbs=qdr:d) and you're good to go.![](https://ga-beacon.appspot.com/UA-52838431-1/GitHub/wiki/ServerFinder?pixel)
 [[https://cloud.githubusercontent.com/assets/10100202/6096406/3b08f434-af8f-11e4-992f-6b8451316599.jpg]]
 
 2. **Convert the IP.** If the IP you found looks like `109.168.212.27`, you can skip this step. If it has something like `:25565` at the end, remove that. If it looks like `mineplex.eu`, [open the console](http://www.wikihow.com/Open-the-Command-Prompt-in-Windows) and type `ping YOUR_IP_HERE`. You will then see an IP that looks like `109.168.212.27`.
