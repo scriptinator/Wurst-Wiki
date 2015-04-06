@@ -20,3 +20,5 @@
   - Enable `Ignore optional compiler problems` in the properties of the folder.
 7. **Change the compliance level** to `1.6` if you still have errors. You can do that in the project properties.
 8. **That's it!** You should now be able to create a launch config and debug Wurst without any errors or warnings.
+
+>**Notice:** Contributing changes in the vanilla MC source code requires some extra steps. Read [#412](https://github.com/Wurst-Imperium/Wurst-Client/issues/412) for more information.
