@@ -1,15 +1,20 @@
+> **Notice:** Wurst detects your Java version with 100% accuracy.
+>
+> If Wurst says that you are not using Java 8, then you are not using Java 8. Period.  
+> Furthermore, all of the following methods are proven to work every time (if done correctly).
+
 # Method 1: Install Java 8 properly![](https://ga-beacon.appspot.com/UA-52838431-1/GitHub/wiki/Using-Wurst-with-Java-8?pixel)
 1. [**Download Java 8**](http://java.com/download) from Java.com.
 
 2. **Install it.** If you need help with that, read the [installation guide](http://java.com/en/download/help/index_installing.xml) on Java.com.
 
 3. **Uninstall all older Java versions.** Java.com has a [tutorial](http://java.com/en/download/faq/remove_olderversions.xml) on this as well.
+> 3\. is the most important step. Make sure you do it correctly.
 
 4. **Done!**
 
 # Method 2: Use the new Minecraft launcher
->#### WARNING: Only use this if method 1 fails!
->This method will not remove any of your old Java installations. Keeping them installed is **highly insecure**!
+> **WARNING:** This method will not remove any of your old Java installations. Keeping them installed is **highly insecure**!
 
 1. [**Download the new Minecraft launcher**](https://launcher.mojang.com/download/Minecraft.exe) from Mojang.com.
 
