@@ -28,7 +28,7 @@ Keep in mind that it's 10% per admin, not 10% per server. So the more admins a s
 ## Changing the options
 In some cases though, it will be more efficient if you change the options, so we will get to that now.
 
-The password list influences the chance that it works and the time that it takes. To change the password list, select `TXT file`, click `browse` and select your list. A password list is a TXT file with one password per line. I recommend [Xato's "10k most common.txt"](https://xato.net/passwords/more-top-worst-passwords). It contains 10000 passwords that are used by 99.8% of all users, but because it's so long, trying to crack a single password with it can already take several hours. On some special servers, this may be worth it, but if you are just trying to get OP on a random server, you will propably be better off using the default list.
+The password list influences the chance that it works and the time that it takes. To change the password list, select `TXT file`, click `browse` and select your list. A password list is a TXT file with one password per line. ~~I recommend [Xato's "10k most common.txt"](https://xato.net/passwords/more-top-worst-passwords). It contains 10000 passwords that are used by 99.8% of all users, but because it's so long, trying to crack a single password with it can already take several hours.~~ <ins>Xato's website no longer exists, but you can still find plenty of good password lists on Google.</ins> On some special servers, this may be worth it, but if you are just trying to get OP on a random server, you will propably be better off using the default list.
 
 The delay between attempts only influences the time that it takes. The default value is 1000ms which is equivalent to 1 password per second. It's also the shortest delay that can bypass AntiSpam (the server plugin, not the hack). In other words, if the server has AntiSpam, like most servers, you shouldn't change this value. If it doesn't have AntiSpam, you can set it to a lower value which will drastically increase the speed. At the minimum delay (50ms), Xato's list only takes a couple minutes.
 
@@ -47,4 +47,3 @@ Once you're done with that, you can either give OP to your own account (using th
 # Tips
 - If you **turn AntiSpam on**, you won't see all the annoying `Wrong password!` messages.
 - You can also do this **with normal users** to get access to their plots, items, etc.
-- If you prefer the name "AuthMeCracker" over "ForceOP", you can **rename it** by typing `.RenameForceOPEvenThoughTheNameIsTechnicallyCorrect`.
