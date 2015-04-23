@@ -9,7 +9,9 @@ BookHack allows you to insert links that execute commands into writable books. T
 6. Give it to the admin or to the person you want to troll.
 
 # Troubleshooting
-**You need Minecraft 1.8** on the server. Servers that run Minecraft 1.7 do not support books with links.
+- **You need Minecraft 1.8** on the server. Servers that run Minecraft 1.7 do not support books with links.
+
+- **It's not patched.** Spigot is very slowly working on a patch, but they are nowhere near it. All others (Bukkit, Mojang, etc.) don't even care about it.
 
 # For those who want to Skype me about it
 ![](https://cloud.githubusercontent.com/assets/10100202/7282607/62dfc2c2-e931-11e4-8181-ba33f477849f.jpg)
