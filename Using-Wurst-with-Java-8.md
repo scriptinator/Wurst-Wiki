@@ -8,7 +8,7 @@
 
 2. **Install it.** If you need help with that, read the [installation guide](http://java.com/en/download/help/index_installing.xml) on Java.com.
 
-3. **Uninstall all older Java versions.** Java.com has a [tutorial](http://java.com/en/download/faq/remove_olderversions.xml) on this as well.
+3. **Uninstall all older Java versions.** Java.com has a [tutorial](https://www.java.com/en/download/help/mac_uninstall_java.xml) on this as well.
 > 3\. is the most important step. Make sure you do it correctly.
 
 4. **Done!**
