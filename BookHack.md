@@ -14,7 +14,7 @@ BookHack allows you to insert links that execute commands into writable books. T
 - **It's not patched.** Spigot is very slowly working on a patch, but they are nowhere near it. All others (Bukkit, Mojang, etc.) don't even care about it.
 
 # Video tutorial
-<p align=center>[![video](https://i.ytimg.com/vi_webp/Z8umRki0p9g/hqdefault.webp)](https://www.youtube.com/watch?v=Z8umRki0p9g)  
+<p align=center>[![video](https://i.ytimg.com/vi_webp/Z8umRki0p9g/maxresdefault.webp)](https://www.youtube.com/watch?v=Z8umRki0p9g)  
 (click to watch)
 
 # Skype tutorial ;)
