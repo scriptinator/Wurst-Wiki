@@ -1,2 +1,1 @@
-# Welcome to the Wurst Client wiki!![](https://ga-beacon.appspot.com/UA-52838431-1/GitHub/wiki/Home?pixel)
-[[https://raw.githubusercontent.com/Wurst-Imperium/Wurst-logo/master/Wurst/wurst_758x192.png]]
+This page was moved to: https://www.wurst-client.tk/wiki/Main_Page/
