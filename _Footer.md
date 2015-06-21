@@ -1,1 +1,1 @@
-<p align=center><kbd>[back to top](#)
+<p align=center><kbd>[Check out the new & improved Wiki!](https://www.wurst-client.tk/wiki/Main_Page/)
