@@ -11,6 +11,10 @@
 3. **Uninstall all older Java versions.** Java.com has a [tutorial](https://www.java.com/en/download/help/mac_uninstall_java.xml) on this as well.
 > 3\. is the most important step. Make sure you do it correctly.
 
+MAC INSTRUCTIONS: 
+Do ls-l /usr/bin/java.
+Take that directory and add it to the "Executable" field in the "Edit Profile" in the option.
+
 4. **Done!**
 
 # Method 2: Use the new Minecraft launcher
